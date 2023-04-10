@@ -1,0 +1,5 @@
+npm init: Crea un proyecto de Node.js
+
+npm run dev
+
+npm install nodemon -D: Instalar nodemon de forma local
